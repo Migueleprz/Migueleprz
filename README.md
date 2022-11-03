@@ -1,6 +1,6 @@
 - 👋 Hola, Soy @Migueleprz
 - 👀 Estoy interesado en el desarrollo de aplicaciones con PHP Laravel, MySQL, Postgre, NestJs (Básico),  Agular, VueJs (Básico)
-- 🌱 Actualmente estoy aprendiendo lps principios SOLID,
+- 🌱 Actualmente estoy aprendiendo los principios SOLID,
 - 💞️ Busco colaborar en proyectos que me hagan crecer como programador.
 - 📫 como llegar a mi kicke.2@gmail.com
 
